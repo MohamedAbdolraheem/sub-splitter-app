@@ -93,6 +93,8 @@ lib/generated_plugin_registrant.dart
 .env.development.local
 .env.test.local
 .env.production.local
+.env.*
+!.env.example
 
 # Firebase
 **/ios/Runner/GoogleService-Info.plist
